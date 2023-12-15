@@ -14,10 +14,6 @@
 
 [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=BERTHETquentin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Mes Projets
-
-- [Projet 1](https://github.com/BERTHETquentin/SnakeGame): Snake game en python.
-
 ## Contact
 
 - [Email](mailto:quentin@berthet.ch)
