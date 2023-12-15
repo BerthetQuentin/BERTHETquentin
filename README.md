@@ -16,7 +16,7 @@
 
 ## Mes Projets
 
-- [Projet 1]([lien_vers_projet_1](https://github.com/BERTHETquentin/SnakeGame)): Snake game en python.
+- [Projet 1](https://github.com/BERTHETquentin/SnakeGame): Snake game en python.
 
 ## Contact
 
