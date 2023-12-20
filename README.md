@@ -10,8 +10,6 @@
 
 ## Mes Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=BERTHETquentin&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
 [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=BERTHETquentin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
