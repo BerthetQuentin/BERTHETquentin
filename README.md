@@ -1,4 +1,4 @@
-## Salut, je suis Quentin Berthet 👋
+## Salut 👋
 # Bienvenue sur mon profil GitHub !
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BERTHETquentin&color=brightgreen)
