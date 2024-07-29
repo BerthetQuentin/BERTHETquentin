@@ -1,6 +1,4 @@
 ## Salut 👋
-# Bienvenue sur mon profil GitHub !
-
 ![Profile Views](https://komarev.com/ghpvc/?username=BERTHETquentin&color=brightgreen)
 [![Followers](https://img.shields.io/github/followers/BERTHETquentin?style=social)](https://github.com/BERTHETquentin?tab=followers)
 
