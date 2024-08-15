@@ -4,7 +4,7 @@
 
 ## À propos de moi
 - 🎓 Je suis actuellement étudiant en développement informatique à la Vaudoise Assurance
-- 🌱 J'apprends actuellement JavaScript(React, vueJS, NodeJS avec express), Python et le C (projet perso hors entreprise)
+- 🌱 J'apprends actuellement JavaScript(React, vueJS, NodeJS avec express) et Python 
 
 ## Mes Statistiques GitHub
 
