@@ -3,7 +3,7 @@
 [![Followers](https://img.shields.io/github/followers/BERTHETquentin?style=social)](https://github.com/BERTHETquentin?tab=followers)
 
 ## À propos de moi
-- 🎓 Je suis actuellement étudiant en développement informatique à la Vaudoise Assurance
+- 🎓 Je suis actuellement en 3ème  d'apprentissage en tant qu'informatique à la Vaudoise Assurances
 - 🌱 J'apprends actuellement JavaScript(React, vueJS, NodeJS avec express) et Python 
 
 ## Mes Statistiques GitHub
