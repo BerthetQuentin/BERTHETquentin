@@ -14,5 +14,6 @@
 
 - [Email](mailto:quentin@berthet.ch)
 - [LinkedIn](https://www.linkedin.com/in/quentin-berthet/)
+- [GitHub](https://github.com/BerthetQuentin)
 
 
