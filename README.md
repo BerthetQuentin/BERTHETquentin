@@ -25,6 +25,7 @@
 ![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=.net&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-3C3C3C?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-4CAF50?style=for-the-badge&logo=dotnet&logoColor=white)
+![NLog](https://img.shields.io/badge/NLog-FF6600?style=for-the-badge&logo=nlog&logoColor=white)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
