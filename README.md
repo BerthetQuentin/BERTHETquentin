@@ -3,9 +3,9 @@
 [![Followers](https://img.shields.io/github/followers/BERTHETquentin?style=social)](https://github.com/BERTHETquentin?tab=followers)
 ![Last Commit](https://img.shields.io/github/last-commit/BERTHETquentin/BERTHETquentin?style=flat)
 
-## About me
-🎓 I am currently in 3rd year of apprenticeship as computer scientist at Vaudoise Assurances
--🌱 I’m currently learning JavaScript(React, vueJS, NodeJS with express) and Python
+## About me  
+🎓 I am currently in 3rd year of apprenticeship as computer scientist at Vaudoise Assurances  
+🌱 I’m currently learning JavaScript (React, vueJS, NodeJS with express) and Python
 
 ## 🚀 Skills & Technologies
 
