@@ -8,6 +8,7 @@
 🎓 I am currently in 3rd year of apprenticeship as computer scientist at Vaudoise Assurances  
 🌱 I’m currently learning JavaScript (React, vueJS, NodeJS with express) and Python
 
+
 ## 🚀 Skills & Technologies
 
 ### Languages:
