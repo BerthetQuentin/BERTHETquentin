@@ -7,7 +7,7 @@
 🎓 I am currently in 3rd year of apprenticeship as computer scientist at Vaudoise Assurances  
 🌱 I’m currently learning JavaScript (React, vueJS, NodeJS with express) and Python
 
-## 🚀 Skills & Technologies
+## 🚀 Skills & Technologiess
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
