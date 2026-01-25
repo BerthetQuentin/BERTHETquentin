@@ -45,12 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BERTHETquentin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📈 Contributions Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BERTHETquentin&theme=rogue)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BERTHETquentin&theme=onedark)
-
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/quentin-berthet/)
 - [![Email](https://img.shields.io/badge/Email-quentin@berthet.ch-red)](mailto:quentin@berthet.ch)
