@@ -4,14 +4,14 @@
 ![Last Commit](https://img.shields.io/github/last-commit/BERTHETquentin/BERTHETquentin?style=flat)
 
 ## About me  
-🎓 I am currently in 3rd year of apprenticeship as computer scientist at Vaudoise Assurances  
-🌱 I’m currently learning JavaScript (React, vueJS, NodeJS with express) and Python
+🎓 I am currently in 4rd year of apprenticeship as computer scientist at Vaudoise Assurances
 
 ## 🚀 Skills & Technologie
 
 ### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
